@@ -1,6 +1,6 @@
 def main():
     for year in [1900, 1901, 2000, 2004]:
-        print(f"What if {year}?")
+        print(f"{year}の判定")
 
         if year % 4 != 0:
             print(normal_year(year))
