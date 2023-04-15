@@ -1,1 +1,4 @@
-disable=C0114,C0116
+[MESSAGE CONTROL]
+disable=
+    C0114,
+    C0116
